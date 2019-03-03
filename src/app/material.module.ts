@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
 import { MatButtonModule, MatToolbarModule, MatMenuModule } from '@angular/material';
 
 @NgModule({
